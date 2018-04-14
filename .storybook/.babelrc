@@ -1,0 +1,23 @@
+{
+  "plugins": [
+    ["babel-plugin-styled-components", {
+      "displayName": true,
+      "preprocess": false,
+      "minify": false
+    }],
+    "transform-object-rest-spread",
+    "transform-export-extensions",
+    "transform-class-properties",
+    "syntax-dynamic-import",
+    "transform-async-to-generator"
+  ],
+  "presets": [
+    "react",
+    [
+      "env",
+      {
+        "modules": false
+      }
+    ]
+  ]
+}

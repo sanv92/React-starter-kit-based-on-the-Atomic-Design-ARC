@@ -1,0 +1,138 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button Button - all props (snapshot) 1`] = `
+.c0 {
+  outline: none;
+  line-height: 0;
+  cursor: pointer;
+  -webkit-transition: opacity .2s linear;
+  transition: opacity .2s linear;
+  color: #fff;
+  background-color: #28a745;
+  border-color: #28a745;
+  font-size: 1.5rem;
+  height: 3rem;
+  opacity: .6 !important;
+}
+
+.c0:hover {
+  opacity: .8;
+}
+
+<button
+  className="c0"
+  disabled={true}
+  onClick={[Function]}
+>
+  Submit
+</button>
+`;
+
+exports[`Button Button - color (snapshot) 1`] = `
+.c0 {
+  outline: none;
+  line-height: 0;
+  cursor: pointer;
+  -webkit-transition: opacity .2s linear;
+  transition: opacity .2s linear;
+  color: #fff;
+  background-color: #28a745;
+  border-color: #28a745;
+  font-size: 1.1875rem;
+  height: 2.375rem;
+}
+
+.c0:hover {
+  opacity: .8;
+}
+
+<button
+  className="c0"
+  disabled={false}
+  onClick={[Function]}
+>
+  Submit
+</button>
+`;
+
+exports[`Button Button - disabled (snapshot) 1`] = `
+.c0 {
+  outline: none;
+  line-height: 0;
+  cursor: pointer;
+  -webkit-transition: opacity .2s linear;
+  transition: opacity .2s linear;
+  color: #fff;
+  background-color: #1890ff;
+  border-color: #1890ff;
+  font-size: 1.1875rem;
+  height: 2.375rem;
+  opacity: .6 !important;
+}
+
+.c0:hover {
+  opacity: .8;
+}
+
+<button
+  className="c0"
+  disabled={true}
+  onClick={[Function]}
+>
+  Submit
+</button>
+`;
+
+exports[`Button Button - size (snapshot) 1`] = `
+.c0 {
+  outline: none;
+  line-height: 0;
+  cursor: pointer;
+  -webkit-transition: opacity .2s linear;
+  transition: opacity .2s linear;
+  color: #fff;
+  background-color: #1890ff;
+  border-color: #1890ff;
+  font-size: 1.5rem;
+  height: 3rem;
+}
+
+.c0:hover {
+  opacity: .8;
+}
+
+<button
+  className="c0"
+  disabled={false}
+  onClick={[Function]}
+>
+  Submit
+</button>
+`;
+
+exports[`Button Default Button (snapshot) 1`] = `
+.c0 {
+  outline: none;
+  line-height: 0;
+  cursor: pointer;
+  -webkit-transition: opacity .2s linear;
+  transition: opacity .2s linear;
+  color: #fff;
+  background-color: #1890ff;
+  border-color: #1890ff;
+  font-size: 1.1875rem;
+  height: 2.375rem;
+}
+
+.c0:hover {
+  opacity: .8;
+}
+
+<button
+  className="c0"
+  disabled={false}
+  onClick={[Function]}
+>
+  Submit
+</button>
+`;

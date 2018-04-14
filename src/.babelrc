@@ -1,0 +1,27 @@
+{
+  "presets": [
+    "react",
+    "env",
+    "flow"
+  ],
+  "plugins": [
+    ["babel-plugin-styled-components", {
+      "displayName": true,
+      "preprocess": true,
+      "minify": true
+    }],
+    "transform-class-properties",
+    "transform-object-rest-spread",
+    "transform-export-extensions",
+    "syntax-dynamic-import",
+    "transform-async-to-generator",
+    "syntax-dynamic-import"
+  ],
+  "env": {
+    "development": {
+      "plugins": [
+        "react-hot-loader/babel"
+      ]
+    }
+  }
+}
