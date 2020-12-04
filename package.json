@@ -80,7 +80,7 @@
     "color": "^3.0.0",
     "cookie-parser": "^1.4.3",
     "grid-styled": "^3.2.1",
-    "highlight.js": "^9.12.0",
+    "highlight.js": "^10.4.1",
     "intl": "^1.2.5",
     "lodash": "^4.17.5",
     "polished": "^1.9.2",
